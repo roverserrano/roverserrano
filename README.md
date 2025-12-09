@@ -35,18 +35,4 @@
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=roverserrano&theme=react" alt="GitHub Streak" /></a>
-</div>
-
----
-
-<h3 align="center">🌐 Redes Sociales</h3>
-<div align="center">
-  <a href="mailto:serranorover436@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/TheSpartanWolf" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
-    
+</div>    
